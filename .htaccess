@@ -6,3 +6,6 @@ Redirect 301 /old-page /new-page
 
 # Redirect from blog/old-post to blog/new-post
 Redirect 301 /blog/old-post /blog/new-post
+
+# Redirect from /test to google.com
+Redirect 301 /test https://google.com
